@@ -4,6 +4,7 @@
 Ingenieria en Ciencias de la Computación William Jose Aucaquizhpi, waucaquizhpi@est.ups.edu.ec
 
 #Curso de Programación y Plataformas Web
+
 HTML5
 CSS2 y CSS3
 Javascript
