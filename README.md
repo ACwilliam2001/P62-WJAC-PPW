@@ -3,12 +3,13 @@
 
 Ingenieria en Ciencias de la Computación William Jose Aucaquizhpi, waucaquizhpi@est.ups.edu.ec
 
-#Curso de Programación y Plataformas Web
+# Curso de Programación y Plataformas Web
 
 HTML5
 CSS2 y CSS3
 Javascript
 
+# Más sobre mi
 Amante de la aventura y los viajes. Explorando el mundo, un destino a la vez. 🌍✈️
 
 Fotógrafo aficionado capturando momentos y emociones en cada imagen. 📸✨
